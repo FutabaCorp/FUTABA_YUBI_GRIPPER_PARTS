@@ -9,7 +9,7 @@ YUBI Gripper_Futaba_AssemblyGuide
 - ブラケット部品の取り付け(BRACKET_FUTABA)
 - ケースの取り付け
 
-※他の組み立て手順は、「YUBI Gripper_Dinamixel_AssemblyGuide」に記載されている手順と同じです。
+※他の組み立て手順は、「[YUBI Gripper_Dinamixel_AssemblyGuide](https://github.com/Toyota/yubi-hw/blob/main/docs/AssemblyInstruction/YUBI%20Gripper_DYNAMIXEL_AssemblyGuide.pdf)」に記載されている手順と同じです。
 その他の部品のCADデータについては、トヨタ未来創生センターのGitHubにあるデータをご利用ください。
 ネジやナットについては、各メーカーやECサイトなどで公開されているCADデータを参照してください。
 
