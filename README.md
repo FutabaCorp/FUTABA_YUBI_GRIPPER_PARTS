@@ -6,4 +6,5 @@ This folder contains the CAD data for the modified parts and the assembly instru
 
 その他の部品情報や組立て手順に関してはトヨタ未来創生センターで公開しているデータを参照してください。
 For information on other parts and assembly procedures, please refer to the data published by the Toyota Future Creation Center.
+
 https://github.com/Toyota/yubi-hw
