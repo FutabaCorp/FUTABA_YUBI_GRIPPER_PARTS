@@ -15,7 +15,12 @@ YUBI Gripper_Futaba_AssemblyGuide
 
 
 双葉電子のGithubで公開しているSTEPファイル
-<img width="926" height="570" alt="image" src="https://github.com/user-attachments/assets/79a79edf-f30a-4305-8a48-95851b297c22" />
+|ファイル名|外観図|備考|
+|---|---|---|
+|GEAR_SHAFT_FUTABA_rev00.stp|<img width="532" height="411" alt="shaft" src="https://github.com/user-attachments/assets/a482efca-911f-4429-86c7-fa0cfa24a836" /> |出荷時にBLA21-12R3-C01に取り付けられているホーン用シャフト|
+|BRACKET_FUTABA_rev00.stp|<img width="379" height="403" alt="BRACKET" src="https://github.com/user-attachments/assets/06be99c7-4479-416f-87f6-7eebd982d4c8" />
+||
+
 (3) 双葉サーボへの部品取り付け
 - 付属のホーンを取り付ける (ホーンを外してしまった場合)
 1) 取り付ける前に、刻印の位置を合わせてください。
