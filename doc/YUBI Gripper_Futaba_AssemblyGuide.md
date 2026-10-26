@@ -17,9 +17,7 @@ List of STEP files published on Futaba’s GitHub
 |File name|Exterior View|Notes|
 |---|---|---|
 |GEAR_SHAFT_FUTABA_rev00.stp|<img width="532" height="411" alt="shaft" src="https://github.com/user-attachments/assets/a482efca-911f-4429-86c7-fa0cfa24a836" />
-|The shaft for the horn installed on
-the BLA21-12R3-C01 at the time of
-shipment.|
+|The shaft for the horn installed on the BLA21-12R3-C01 at the time of shipment.|
 |BRACKET_FUTABA_rev00.stp|<img width="379" height="403" alt="BRACKET" src="https://github.com/user-attachments/assets/06be99c7-4479-416f-87f6-7eebd982d4c8" />
 ||
 
