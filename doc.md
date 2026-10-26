@@ -15,6 +15,7 @@ For screws and nuts, please refer to the CAD data provided by the respective man
 
 List of STEP files published on Futaba’s GitHub
 
-<img width="1015" height="604" alt="image" src="https://github.com/user-attachments/assets/7449d7a2-6fbd-433a-a33b-9cb932ab058f" />
+<img width="917" height="570" alt="image" src="https://github.com/user-attachments/assets/fe918e7a-7419-4fda-9a5b-41689d8141f0" />
+
 
 
