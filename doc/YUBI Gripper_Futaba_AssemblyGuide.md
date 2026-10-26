@@ -47,6 +47,7 @@ The tightening torque values for the screws are listed on the lower side because
 - Install CASE
 
 3）Install CASE onto FUTABA + BRACKET ASSY.
+
 4）Secure BRACKET_DYNAMIXEL with CBSTNR2-5 (4 pcs). (Torque: 0.315 N･m)
 <p align = "center">
 <img width="1402" height="468" alt="image" src="https://github.com/user-attachments/assets/9842b8ac-28f9-46c1-a6e4-84a6b60535d3" />
