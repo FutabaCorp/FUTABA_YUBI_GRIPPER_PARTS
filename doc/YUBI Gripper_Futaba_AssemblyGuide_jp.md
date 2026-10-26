@@ -36,10 +36,10 @@ YUBI Gripper_Futaba_AssemblyGuide
 
 -ギヤシャフトの取り付け(GEAR_SHAFT_FUTABA)
 
-4) ギヤシャフトをホーンに取り付ける
+4）ギヤシャフトをホーンに取り付ける
 ギヤシャフトのキー溝を、ホーンの切り欠け部に合わせてください。
 
-5) ギヤシャフトをCBSTNR2-6 （4個）で固定してください。
+5）ギヤシャフトをCBSTNR2-6 （4個）で固定してください。
 （ネジロック剤を塗布。締め付けトルク：0.315 N･m）
 <p align="center">
 <img width="797" height="427" alt="image" src="https://github.com/user-attachments/assets/a19e7c6a-6645-4b81-ab5d-f4e922b8071d" />
