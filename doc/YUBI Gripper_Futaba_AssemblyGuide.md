@@ -31,8 +31,9 @@ The tightening torque values for the screws are listed on the lower side because
 <img width="348" height="262" alt="image" src="https://github.com/user-attachments/assets/29b68bb3-807b-46bd-8546-bfa2d92fa630" />
 </p>
 - Install GEAR_SHAFT_FUTABA
-4) Install GEAR_SHAFT_FUTABA onto the wheel.
-Align the keyway of GEAR_SHAFT_FUTABA with the alignment mark on the wheel.
+
+4) Install GEAR_SHAFT_FUTABA onto the wheel.Align the keyway of GEAR_SHAFT_FUTABA with the alignment mark on the wheel.
+
 5) Secure GEAR SHAFT_FUTABA with CBSTNR2-6 (4 pcs).　(Apply threadlocker, Torque: 0.315 N･m)
 <p align = "center">
 <img width="1190" height="635" alt="image" src="https://github.com/user-attachments/assets/fcf584fa-d78d-4005-9bc4-19a6b76355f6" />
