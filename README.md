@@ -3,7 +3,7 @@ YUBIへBLA21-12R3-C01を使用する場合に変更のある部品のCADデー�
 
 This folder contains provides the CAD data for modified parts and the assembly changes required when using the BLA21-12R3-C01 with YUBI.
 <p align="center">
-<img width="309" height="278" alt="YUBI" src="https://github.com/user-attachments/assets/9771e014-8427-406a-af9d-a0867c608f3a" />
+<img width="309" height="278" alt="YUBI_white" src="https://github.com/user-attachments/assets/9aee415a-7a66-4a48-9d60-50e099ae05a1" />
 </p>
 その他の部品情報や組立て手順に関してはトヨタ未来創生センターで公開しているデータを参照してください。
 
