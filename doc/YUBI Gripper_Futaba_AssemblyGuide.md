@@ -41,7 +41,9 @@ The tightening torque values for the screws are listed on the lower side because
 
 (6) Installation of Futaba
 - Install BRACKET_FUTABA
+
 1）Install BRACKET_FUTABA onto Futaba + GEAR SHAFT ASSY (3).
+
 2）Secure CBSTNR2-6 (4 pcs) + HNT2-ST3W-M2 (4 pcs). (Torque: 0.315 N･m)
 <p align = "center">
 <img width="734" height="742" alt="image" src="https://github.com/user-attachments/assets/ac78fd26-5688-45ec-9c38-efc151b2c02c" />
