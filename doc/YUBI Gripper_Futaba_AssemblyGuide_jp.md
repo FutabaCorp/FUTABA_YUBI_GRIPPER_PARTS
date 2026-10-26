@@ -10,7 +10,7 @@ YUBI Gripper_Futaba_AssemblyGuide
 - ケースの取り付け
 
 ※他の組み立て手順は、「[YUBI Gripper_Dinamixel_AssemblyGuide](https://github.com/Toyota/yubi-hw/blob/main/docs/AssemblyInstruction/YUBI%20Gripper_DYNAMIXEL_AssemblyGuide.pdf)」に記載されている手順と同じです。
-その他の部品のCADデータについては、トヨタ未来創生センターのGitHubにあるデータをご利用ください。
+その他の部品のCADデータについては、トヨタ未来創生センターの[GitHubにあるデータ](https://github.com/Toyota/yubi-hw/tree/main/STEP/gripper)をご利用ください。
 ネジやナットについては、各メーカーやECサイトなどで公開されているCADデータを参照してください。
 
 
