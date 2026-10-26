@@ -19,7 +19,8 @@ List of STEP files published on Futaba’s GitHub
 </p>
 (3) Installation of components onto Futaba
 - Install supplied wheel (If the included wheel has been removed.)
-1) Align the position of the engraved marks before installation.
+
+1）Align the position of the engraved marks before installation.
 <p align = "center">
 <img width="514" height="161" alt="image" src="https://github.com/user-attachments/assets/2a4e1c08-e8ef-4831-879c-3a8d8ba877fe" />
 </p>
