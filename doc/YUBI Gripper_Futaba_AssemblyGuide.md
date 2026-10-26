@@ -9,7 +9,7 @@ YUBI Gripper_Futaba_AssemblyGuide
 - Install BRACKET_FUTABA
 - Install CASE
 
-※The remaining assembly steps are the same as those described in the “YUBI Gripper_Dinamixel_AssemblyGuide.”
+※The remaining assembly steps are the same as those described in the [“YUBI Gripper_Dinamixel_AssemblyGuide”](https://github.com/Toyota/yubi-hw/blob/main/docs/AssemblyInstruction/YUBI%20Gripper_DYNAMIXEL_AssemblyGuide.pdf).
 For CAD data on other parts, please use the files available on the Toyota Future Creation Center’s GitHub. 
 For screws and nuts, please refer to the CAD data provided by the respective manufacturers or on e-commerce sites.
 
