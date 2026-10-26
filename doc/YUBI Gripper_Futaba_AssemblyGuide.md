@@ -14,6 +14,16 @@ For CAD data on other parts, please use the files available on the Toyota Future
 For screws and nuts, please refer to the CAD data provided by the respective manufacturers or on e-commerce sites.
 
 List of STEP files published on Futaba’s GitHub
+|File name|Exterior View|Notes|
+|---|---|---|
+|GEAR_SHAFT_FUTABA_rev00.stp|<img width="532" height="411" alt="shaft" src="https://github.com/user-attachments/assets/a482efca-911f-4429-86c7-fa0cfa24a836" />
+|The shaft for the horn installed on
+the BLA21-12R3-C01 at the time of
+shipment.|
+|BRACKET_FUTABA_rev00.stp|<img width="379" height="403" alt="BRACKET" src="https://github.com/user-attachments/assets/06be99c7-4479-416f-87f6-7eebd982d4c8" />
+||
+
+
 <p align = "center">
 <img width="917" height="570" alt="image" src="https://github.com/user-attachments/assets/fe918e7a-7419-4fda-9a5b-41689d8141f0" />
 </p>
