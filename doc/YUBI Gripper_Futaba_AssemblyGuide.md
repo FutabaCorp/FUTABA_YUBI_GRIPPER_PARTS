@@ -31,9 +31,7 @@ The tightening torque values for the screws are listed on the lower side because
 <img width="348" height="262" alt="image" src="https://github.com/user-attachments/assets/29b68bb3-807b-46bd-8546-bfa2d92fa630" />
 </p>
 - Install GEAR_SHAFT_FUTABA
-
 4）Install GEAR_SHAFT_FUTABA onto the wheel.Align the keyway of GEAR_SHAFT_FUTABA with the alignment mark on the wheel.
-
 5）Secure GEAR SHAFT_FUTABA with CBSTNR2-6 (4 pcs).　(Apply threadlocker, Torque: 0.315 N･m)
 <p align = "center">
 <img width="1190" height="635" alt="image" src="https://github.com/user-attachments/assets/fcf584fa-d78d-4005-9bc4-19a6b76355f6" />
@@ -41,14 +39,15 @@ The tightening torque values for the screws are listed on the lower side because
 
 (6) Installation of Futaba
 - Install BRACKET_FUTABA
-1) Install BRACKET_FUTABA onto Futaba + GEAR SHAFT ASSY (3).
-2) Secure CBSTNR2-6 (4 pcs) + HNT2-ST3W-M2 (4 pcs). (Torque: 0.315 N･m)
+1）Install BRACKET_FUTABA onto Futaba + GEAR SHAFT ASSY (3).
+2）Secure CBSTNR2-6 (4 pcs) + HNT2-ST3W-M2 (4 pcs). (Torque: 0.315 N･m)
 <p align = "center">
 <img width="734" height="742" alt="image" src="https://github.com/user-attachments/assets/ac78fd26-5688-45ec-9c38-efc151b2c02c" />
 </p>
 - Install CASE
-3) Install CASE onto FUTABA + BRACKET ASSY.
-4) Secure BRACKET_DYNAMIXEL with CBSTNR2-5 (4 pcs). (Torque: 0.315 N･m)
+
+3）Install CASE onto FUTABA + BRACKET ASSY.
+4）Secure BRACKET_DYNAMIXEL with CBSTNR2-5 (4 pcs). (Torque: 0.315 N･m)
 <p align = "center">
 <img width="1402" height="468" alt="image" src="https://github.com/user-attachments/assets/9842b8ac-28f9-46c1-a6e4-84a6b60535d3" />
 </p>
