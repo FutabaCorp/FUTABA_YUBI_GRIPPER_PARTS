@@ -29,7 +29,7 @@ YUBI Gripper_Futaba_AssemblyGuide
 ようご注意ください。接着剤が出力軸内部のOリングに付着すると、Oリングの劣化を招く恐れが
 あります。
 
-3) ホーンの切り欠け部分を0度に合わせてください。工場出荷時の設定角度は、図を参照してください。
+3）ホーンの切り欠け部分を0度に合わせてください。工場出荷時の設定角度は、図を参照してください。
 <p align="center">
 <img width="369" height="278" alt="image" src="https://github.com/user-attachments/assets/40d5a70f-1c54-4f30-8188-b040e400ab58" />
 <p/>
