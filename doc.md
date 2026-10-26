@@ -12,3 +12,8 @@ YUBI Gripper_Futaba_AssemblyGuide
 ※The remaining assembly steps are the same as those described in the “YUBI Gripper_Dinamixel_AssemblyGuide.”
 For CAD data on other parts, please use the files available on the Toyota Future Creation Center’s GitHub. 
 For screws and nuts, please refer to the CAD data provided by the respective manufacturers or on e-commerce sites.
+
+List of STEP files published on Futaba’s GitHub
+
+<img width="1015" height="604" alt="image" src="https://github.com/user-attachments/assets/fa64da68-d3e3-42f9-96df-b95ffde5f2c4" />
+
