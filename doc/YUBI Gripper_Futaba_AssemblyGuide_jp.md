@@ -35,8 +35,10 @@ YUBI Gripper_Futaba_AssemblyGuide
 <p/>
 
 -ギヤシャフトの取り付け(GEAR_SHAFT_FUTABA)
+
 4) ギヤシャフトをホーンに取り付ける
 ギヤシャフトのキー溝を、ホーンの切り欠け部に合わせてください。
+
 5) ギヤシャフトをCBSTNR2-6 （4個）で固定してください。
 （ネジロック剤を塗布。締め付けトルク：0.315 N･m）
 <p align="center">
@@ -45,15 +47,19 @@ YUBI Gripper_Futaba_AssemblyGuide
 
 (6) 双葉サーボの取り付け(BRACKET_FUTABA)
 - ブラケット部品の取り付け
-1) ブラケット部品を(3)で組み立てた双葉サーボ+ギヤシャフト品に取り付けます。
-2) CBSTNR2-6（4個）とHNT2-ST3W-M2（4個）を固定します。（トルク：0.315 N･m）
+
+1）ブラケット部品を(3)で組み立てた双葉サーボ+ギヤシャフト品に取り付けます。
+
+2）CBSTNR2-6（4個）とHNT2-ST3W-M2（4個）を固定します。（トルク：0.315 N･m）
 <p align="center">
 <img width="474" height="487" alt="image" src="https://github.com/user-attachments/assets/88ad9014-da2c-4441-aba9-3280ca1d18df" />
 <p/>
 
 - ケースの取り付け
-3) ケース部品を双葉サーボ+ブラケットに取り付けます。
-4) ブラケット を CBSTNR2-5（4個）で固定してください。（トルク：0.315 N･m）
+
+3）ケース部品を双葉サーボ+ブラケットに取り付けます。
+
+4）ブラケット を CBSTNR2-5（4個）で固定してください。（トルク：0.315 N･m）
 <p align="center">
 <img width="1402" height="449" alt="image" src="https://github.com/user-attachments/assets/6d093ced-19fa-4729-9611-3136a2f51f8b" />
 <p/>
