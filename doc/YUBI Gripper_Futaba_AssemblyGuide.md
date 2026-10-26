@@ -20,10 +20,6 @@ List of STEP files published on Futaba’s GitHub
 |BRACKET_FUTABA_rev00.stp|<img width="379" height="403" alt="BRACKET" src="https://github.com/user-attachments/assets/06be99c7-4479-416f-87f6-7eebd982d4c8" />
 ||
 
-
-<p align = "center">
-<img width="917" height="570" alt="image" src="https://github.com/user-attachments/assets/fe918e7a-7419-4fda-9a5b-41689d8141f0" />
-</p>
 (3) Installation of components onto Futaba
 - Install supplied wheel (If the included wheel has been removed.)
 
