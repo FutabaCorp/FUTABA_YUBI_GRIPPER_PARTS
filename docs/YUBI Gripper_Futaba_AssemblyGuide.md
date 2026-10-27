@@ -1,4 +1,5 @@
 YUBI Gripper_Futaba_AssemblyGuide
+
 [Assembly Procedure for Changing Dinamixel to Futaba (BLA21-12R3-C01)]
 
 (3) Installation of components onto Futaba
