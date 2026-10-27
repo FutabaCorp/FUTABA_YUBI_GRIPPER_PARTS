@@ -1,4 +1,5 @@
 YUBI Gripper_Futaba_AssemblyGuide
+
 [Dinamixelサーボからを双葉サーボ（BLA21-12R3-C01）に交換するための組み立て手順]
 
 (3) 双葉サーボへの部品取り付け
